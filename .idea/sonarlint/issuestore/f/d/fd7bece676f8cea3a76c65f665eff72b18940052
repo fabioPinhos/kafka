@@ -1,0 +1,12 @@
+
+\
+java:S6213 ":Rename this variable to not match a restricted identifier.(´Å£Ÿıÿÿÿÿ8ˆì®Ğ€2
+L	java:S106!"+Replace this use of System.out by a logger.(Ğ‡ó´şÿÿÿÿ8ˆì®Ğ€2
+i
+java:S1128"LRemove this unused import 'org.apache.kafka.clients.producer.KafkaProducer'.(ªŒ»8Šì®Ğ€2
+j
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerConfig'.(ıä¢ó8Šì®Ğ€2
+o
+java:S1128	"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerRecord'.(ä°«¡üÿÿÿÿ8Šì®Ğ€2
+p
+java:S1128"SRemove this unused import 'org.apache.kafka.common.serialization.StringSerializer'.(Ş ¾ş8‹ì®Ğ€2
